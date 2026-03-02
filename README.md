@@ -7,15 +7,15 @@ https://app.powerbi.com/view?r=eyJrIjoiOTI0YjE2NzctNDE1Yi00MTlmLWIyYmMtODdjNjg4N
 
 ### 🏠 1. SALE ANALYSIS PAGE
 
-![Sales Analysis Preview](/SALES%20ANALYSIS%20PAGE.jpeg)
+![Sales Analysis Preview](/SALES%20ANALYSIS%20PAGE.png)
 
-The **Sales Analysis Page** hat tracks total sales (49.53M), recent 28-day performance (3.62M), daily trends with a 14-day moving average, and highlights top vendors—enabling data-driven insights through dynamic filters and drill-through reports.
+The **Sales Analysis Page** that tracks total sales (49.53M), recent 28-day performance (3.62M), daily trends with a 14-day moving average, and highlights top vendors—enabling data-driven insights through dynamic filters and drill-through reports.
 
 ---
 
 ### 📊 2. DRILL THROUGH BY VENDOR PAGE
 
-![Vendor Details](/VENDOR%20DETAILS.jpeg)
+![Vendor Details](/VENDOR%20DETAILS.png)
 
 The **Vendor details page** focus on vendor-level drill-through Power BI report showcasing Vendor's performance, highlighting total sales (49.53M), 514K items sold, and a detailed monthly sales breakdown to enable focused vendor performance analysis.
 
