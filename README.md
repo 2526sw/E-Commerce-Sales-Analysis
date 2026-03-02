@@ -5,6 +5,21 @@
 ## 📌 Live Dashboard Link
 https://app.powerbi.com/view?r=eyJrIjoiOTI0YjE2NzctNDE1Yi00MTlmLWIyYmMtODdjNjg4Nzk4ZGFkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
+### 🏠 1. SALE ANALYSIS PAGE
+
+![Sales Analysis Preview](/SALES%20ANALYSIS%20PAGE.jpeg)
+
+The **Sales Analysis Page** hat tracks total sales (49.53M), recent 28-day performance (3.62M), daily trends with a 14-day moving average, and highlights top vendors—enabling data-driven insights through dynamic filters and drill-through reports.
+
+---
+
+### 📊 2. DRILL THROUGH BY VENDOR PAGE
+
+![Vendor Details](/VENDOR%20DETAILS.jpeg)
+
+The **Vendor details page** focus on vendor-level drill-through Power BI report showcasing Vendor's performance, highlighting total sales (49.53M), 514K items sold, and a detailed monthly sales breakdown to enable focused vendor performance analysis.
+
+---
 ## 📌 Project Overview
 
 This project focuses on analyzing the sales performance of a large ecommerce platform selling 25,000+ products through multiple vendors nationwide. The objective was to create an analytical dashboard for the Sales Team to:
